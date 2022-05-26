@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/firebaseauth/static/css/main.e5aec9b3.css",
+    "main.js": "/firebaseauth/static/js/main.ed92c04a.js",
+    "static/js/787.ec4c5bac.chunk.js": "/firebaseauth/static/js/787.ec4c5bac.chunk.js",
+    "static/media/student.jpg": "/firebaseauth/static/media/student.462eb485edf2bd9cf7ff.jpg",
+    "static/media/profile.png": "/firebaseauth/static/media/profile.c3f945216dc12c9498dc.png",
+    "static/media/reading.png": "/firebaseauth/static/media/reading.7e9cab4722fbfd3b2372.png",
+    "static/media/exams.png": "/firebaseauth/static/media/exams.f2a52d13ff2a5c70a803.png",
+    "static/media/studentImg.png": "/firebaseauth/static/media/studentImg.93d642ad2861d007d9e9.png",
+    "static/media/kodecamp.png": "/firebaseauth/static/media/kodecamp.b9d723705ef70bccabfa.png",
+    "index.html": "/firebaseauth/index.html",
+    "main.e5aec9b3.css.map": "/firebaseauth/static/css/main.e5aec9b3.css.map",
+    "main.ed92c04a.js.map": "/firebaseauth/static/js/main.ed92c04a.js.map",
+    "787.ec4c5bac.chunk.js.map": "/firebaseauth/static/js/787.ec4c5bac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5aec9b3.css",
+    "static/js/main.ed92c04a.js"
+  ]
+}
