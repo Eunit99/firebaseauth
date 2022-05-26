@@ -1,0 +1,209 @@
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+.font-300 {
+	font-weight: 300;
+}
+
+.font-400 {
+	font-weight: 400;
+}
+
+.font-500 {
+	font-weight: 500;
+}
+
+.font-600 {
+	font-weight: 600;
+}
+
+.font-700 {
+	font-weight: 700;
+}
+
+.font-13 {
+	font-size: 13px;
+}
+
+.font-14 {
+	font-size: 14px;
+}
+
+.font-15 {
+	font-size: 15px;
+}
+
+.font-16 {
+	font-size: 16px;
+}
+
+.font-18 {
+	font-size: 18px;
+}
+
+.font-20 {
+	font-size: 20px;
+}
+
+.font-24 {
+	font-size: 24px;
+}
+
+.font-32 {
+	font-size: 32px;
+}
+
+.font-48 {
+	font-size: 48px;
+}
+
+.font-40 {
+	font-size: 40px;
+}
+
+.bg-orange {
+	background-color: #FF5C00;
+}
+
+.bg-gray {
+	background-color: #E5E5E5;
+}
+
+.bg-pink {
+	background-color: #FF6584;
+}
+
+.bg-black {
+	background-color: #222222 !important;
+}
+
+.bg-lblack {
+	background-color: #2E2E2E;
+}
+
+.bg-lgreen {
+	background-color: #F0FFEE;
+}
+
+.bg-blue {
+	background-color: #776EFF;
+}
+
+.bg-llblack {
+	background-color: #25201D;
+}
+
+.bg-lll {
+	background: rgba(255, 255, 255, 0.2) !important;
+}
+
+.bg-piink {
+	background: rgba(255, 92, 0, 0.03);
+}
+
+.text-black {
+	color: #242120;
+}
+
+.text-ash {
+	color: #494949;
+}
+
+.text-ashh {
+	color: #CCCCCC;
+}
+
+.text-ashhh {
+	color: #535353;
+}
+
+.text-darkblue {
+	color: #2F2E41;
+}
+
+.text-pink {
+	color: #FF6584;
+}
+
+
+.text-blue {
+	color: #776EFF;
+}
+
+.text-green {
+	color: #049A01;
+}
+
+.text-orange {
+	color: #FF5C00;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.login-input {
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.input-cover {
+	border: 2px solid #CCCCCC !important;
+	display: flex !important;
+	justify-content: space-between !important;
+	position: relative;
+}
+
+.login-icon {
+	transform: scale(2.0);
+	color: #CCCCCC !important;
+	position: absolute;
+	top: 30%;
+	left: 89%;
+}
+
+.course-icon {
+	transform: scale(3.0);
+	color: #2F2E41;
+}
+
+.menu-icon {
+	transform: scale(2.5);
+	color: #2F2E41;
+}
+
+.login-button {
+	border: none;
+}
+
+.sidebar {
+	height: 100vh;
+	background-color: #F8F9FA;
+}
+
+.sidebar-left {
+	height: 100vh;
+	background-color: #1E65F0;
+	border-radius: 0 20px 0 0;
+}
+
+.sidebar-right {
+	height: 100vh;
+}
+
+.hovercolor {
+	background-color: #273251;
+
+}
+
+.link:active {
+	color: #FF6584 !important;
+}
+
+.roundedd {
+	border-radius: 20px;
+}
